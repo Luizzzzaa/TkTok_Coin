@@ -1,7 +1,7 @@
 {
   "name": "TikTok Coin Recharge",
   "short_name": "Recharge",
-  "start_url": "index.htm",
+  "start_url": "/?homescreen=1",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#ffffff",
